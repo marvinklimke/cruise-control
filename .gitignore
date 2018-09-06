@@ -1,0 +1,9 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# Project components
+*.componentinfo.xml
+
+# Visual Studio config
+.vs/
